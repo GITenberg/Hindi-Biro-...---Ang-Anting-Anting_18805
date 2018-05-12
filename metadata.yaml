@@ -1,0 +1,25 @@
+_repo: Hindi-Biro-...---Ang-Anting-Anting_18805
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Francia, José R.
+    alias: Francia, Jose R.
+    gutenberg_agent_id: '8265'
+    url: http://www.gutenberg.org/2009/agents/8265
+description: ''
+gutenberg_issued: '2006-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18805'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Fiction'
+title: Hindi Biro!... ó Ang Anting-Anting
+url: http://www.gutenberg.org/ebooks/18805
